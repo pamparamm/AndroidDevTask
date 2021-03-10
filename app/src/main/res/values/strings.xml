@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Dev Task</string>
+    <string name="counter_placeholder">Counter</string>
+    <string name="activity_button">Get Square</string>
+</resources>
